@@ -2,7 +2,7 @@
 
 ## Overview
 
-The MotorPH Employee App is a Java Swing desktop application developed as the Terminal Assessment for Computer Programming 2. The application demonstrates employee information management and payroll processing using CSV file handling instead of a database management system.
+The **MotorPH Employee App** is a Java Swing desktop application developed as the **Terminal Assessment** for **Computer Programming 2**. The application demonstrates employee information management and payroll processing using CSV file handling instead of a database management system.
 
 The project provides a simple and user-friendly graphical interface for viewing employee records and computing employee salaries based on stored CSV data.
 
